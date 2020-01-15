@@ -1,0 +1,10 @@
+.sys-admin-select {
+  width: 50%;
+  float: right;
+}
+
+.sys-admin-profiles:hover {
+  background-color: rgb(65, 123, 231);
+  font-weight: bolder;
+  color: whitesmoke;
+}
